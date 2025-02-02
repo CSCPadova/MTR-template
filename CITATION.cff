@@ -5,17 +5,15 @@ authors:
 - family-names: "Fiordelmondo"
   given-names: "Alessandro"
   email: fiordelmondo@dei.unipd.it
-  affiliation: Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova
-  alias: alef
+  affiliation: "Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova"
   orcid: https://orcid.org/0000-0002-4670-5298
   website: https://alessandrofiordelmondo.github.io/
 - family-names: "Spanio"
   given-names: "Matteo"
   email: spanio@dei.unipd.it
-  affiliation: Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova
+  affiliation: "Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova"
   orcid: https://orcid.org/0000-0002-2436-7208
   website: https://matteospanio.github.io/
-  alias: matteos
 title: "MTR-template"
 version: v0.1.0
 repository-code: "https://github.com/CSCPadova/MTR-template"
@@ -37,8 +35,18 @@ preferred-citation:
   - "repository"
   - "template"
   authors:
-  - alef
-  - matteos
+  - family-names: "Fiordelmondo"
+    given-names: "Alessandro"
+    email: fiordelmondo@dei.unipd.it
+    affiliation: "Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova"
+    orcid: https://orcid.org/0000-0002-4670-5298
+    website: https://alessandrofiordelmondo.github.io/
+  - family-names: "Spanio"
+    given-names: "Matteo"
+    email: spanio@dei.unipd.it
+    affiliation: "Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova"
+    orcid: https://orcid.org/0000-0002-2436-7208
+    website: https://matteospanio.github.io/
   - family-names: "Cadavidhinojosa"
     given-names: "Patricia"
     email: Patricia.Cadavidhinojosa@uwe.ac.uk
