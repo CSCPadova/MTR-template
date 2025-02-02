@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this template, please cite it and the related publication as below."
+date-released: 2025-02-03
+authors:
+- family-names: "Fiordelmondo"
+  given-names: "Alessandro"
+  email: fiordelmondo@dei.unipd.it
+  affiliation: Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova
+  alias: alef
+  orcid: https://orcid.org/0000-0002-4670-5298
+  website: https://alessandrofiordelmondo.github.io/
+- family-names: "Spanio"
+  given-names: "Matteo"
+  email: spanio@dei.unipd.it
+  affiliation: Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova
+  orcid: https://orcid.org/0000-0002-2436-7208
+  website: https://matteospanio.github.io/
+  alias: matteos
+title: "MTR-template"
+version: v0.1.0
+repository-code: "https://github.com/CSCPadova/MTR-template"
+keywords:
+- "repository"
+- "template"
+preferred-citation: 
+  type: article
+  journal: "NIME"
+  title: "Towards a Repository Template for Music Technology Research"
+  abstract: |
+    Documenting and sharing research output is essential to construct the critical discourse on new music technology. Documentation feeds the knowledge and the values with which to evaluate and discuss current achievements and musical creations as well as to plan for the future. Besides publishing our research in conferences and journals, sharing research materials and outcomes like software, hardware, instruments, and datasets is important. This allows others to use the latest technology and improve it. For this purpose, the repository is increasingly commonly used by researchers and artists to store and share their works. However, creating repositories does not follow a clear and organised structure like the one we find, for example, in papers. The heterogeneity of repositories makes it hard to use both practically and for analysis. Although the variety and differences of research products in the field of new musical technologies are obvious, we believe that defining repositories with common guidelines could greatly improve the critical discussion in this area. This issue has already been discussed at the NIME conference through workshops and papers. In this article, we want to continue this discussion and propose a flexible repository template to organise and present research materials and outcomes in the field of new musical technologies.
+    The article provides a short and focused review of how repositories are currently used at the NIME conference, with special attention on the platforms used. Based on this study, we introduce a repository template with case studies, which will then be applied to several case studies. We hope that this proposal will encourage further discussion and progress on this issue and, at the same time, support and facilitate the creation of new repositories.
+  year: 2025
+  month: 2
+  doi: 10.13140/RG.2.2.36838.50247
+  url: https://doi.org/10.13140/rg.2.2.36838.50247
+  keywords:
+  - "repository"
+  - "template"
+  authors:
+  - alef
+  - matteos
+  - family-names: "Cadavidhinojosa"
+    given-names: "Patricia"
+    email: Patricia.Cadavidhinojosa@uwe.ac.uk
+    website: https://www.patriciacadavid.net/
+  - family-names: "Chen"
+    given-names: "xxx"
+    email: xchen805@connect.hkust-gz.edu.cn
+  - family-names: "Canazza"
+    given-names: "Sergio"
+    email: canazza@dei.unipd.it
+    affiliation: Centro di Sonologia Computazionale (CSC), Università degli Studi di Padova
+    orcid: https://orcid.org/0000-0001-7083-4615
+    website: https://www.dei.unipd.it/~canazza/
+  - family-names: "Masu"
+    given-names: "Raul"
+    email: raul@raulmasu.org
+    orcid: https://orcid.org/0000-0002-9725-6584
+    website: http://www.raulmasu.org/
