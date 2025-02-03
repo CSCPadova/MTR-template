@@ -29,8 +29,8 @@ preferred-citation:
     The article provides a short and focused review of how repositories are currently used at the NIME conference, with special attention on the platforms used. Based on this study, we introduce a repository template with case studies, which will then be applied to several case studies. We hope that this proposal will encourage further discussion and progress on this issue and, at the same time, support and facilitate the creation of new repositories.
   year: 2025
   month: 2
-  doi: 10.13140/RG.2.2.36838.50247
-  url: https://doi.org/10.13140/rg.2.2.36838.50247
+  # doi: 
+  # url: 
   keywords:
   - "repository"
   - "template"
