@@ -1,6 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this template, please cite it and the related publication as below."
-date-released: 2025-02-03
+references:
+  - authors:
+    - family-names: Asparouhova
+      given-names: Nadia
+  title: "Contributing Guides: A Template"
+  type: software
+date-released: 2025-02-05
 authors:
 - family-names: "Fiordelmondo"
   given-names: "Alessandro"
@@ -20,13 +26,6 @@ repository-code: "https://github.com/CSCPadova/MTR-template"
 keywords:
 - "repository"
 - "template"
-references:
-  - authors:
-    - family-names: Asparouhova
-      given-names: Nadia
-  title: "Contributing Guides: A Template"
-  type: software
-  url: https://github.com/nayafia/contributing-template
 
 preferred-citation: 
   type: article
