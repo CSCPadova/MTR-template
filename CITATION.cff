@@ -5,6 +5,7 @@ references:
     - family-names: Asparouhova
       given-names: Nadia
     title: "Contributing Guides: A Template"
+    url: "https://github.com/nayafia/contributing-template"
     type: software
 date-released: 2025-02-05
 authors:
