@@ -20,6 +20,14 @@ repository-code: "https://github.com/CSCPadova/MTR-template"
 keywords:
 - "repository"
 - "template"
+references:
+  - authors:
+    - family-names: Asparouhova
+      given-names: Nadia
+  title: "Contributing Guides: A Template"
+  type: software
+  url: https://github.com/nayafia/contributing-template
+
 preferred-citation: 
   type: article
   journal: "NIME"
