@@ -4,8 +4,8 @@ references:
   - authors:
     - family-names: Asparouhova
       given-names: Nadia
-  title: "Contributing Guides: A Template"
-  type: software
+    title: "Contributing Guides: A Template"
+    type: software
 date-released: 2025-02-05
 authors:
 - family-names: "Fiordelmondo"
